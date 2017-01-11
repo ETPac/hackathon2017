@@ -1,0 +1,28 @@
+/*Generic styles*/
+.no-padding{
+	padding:0px!important;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 60px;
+  padding: 5px;
+  color: white;
+	margin-bottom:5px;
+}
+/*Main Stage styles*/
+.main-stage{
+  border:1px solid darkgray;
+  height:480px;
+}
+
+/*Toolbar styles*/
+.toolbar{
+  border:1px solid darkgray;
+  height:480px;
+}
+
